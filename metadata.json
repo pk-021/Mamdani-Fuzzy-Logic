@@ -1,0 +1,5 @@
+{
+  "name": "Mamdani: pk: Fuzzy-Logic Loan Approval System",
+  "description": "A browser-based Loan Approval Simulator using ID3 Decision Tree and Fuzzy Logic.",
+  "requestFramePermissions": []
+}
